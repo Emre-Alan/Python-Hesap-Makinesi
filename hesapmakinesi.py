@@ -1,4 +1,3 @@
-#Yeni bilgi eklendi.
 # tkinter modülünden her şeyi içe aktarın 
 from tkinter import *
  
